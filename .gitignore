@@ -1,0 +1,35 @@
+# node
+node_modules/
+npm-debug.log
+nohup.out
+
+# playwright
+/test-results/
+/playwright-report/
+/playwright/.cache/
+
+# selenium
+selenium-debug.log
+selenium-server.log
+chromedriver.log
+geckodriver.log
+safaridriver.log
+
+# mac
+.DS_Store
+.com.apple.timemachine.supported
+
+# results
+reports
+screenshots
+tests_output
+videos
+
+# environment variables
+.env
+
+# log files
+logs
+
+# parameters
+parameters

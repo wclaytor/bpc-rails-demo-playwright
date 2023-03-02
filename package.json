@@ -1,0 +1,21 @@
+{
+  "name": "bpc-rails-demo-playwright",
+  "version": "1.0.0",
+  "description": "Test automation for the bpc-rails-demo project using Playwright",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wclaytor/bpc-rails-demo-playwright.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wclaytor/bpc-rails-demo-playwright/issues"
+  },
+  "homepage": "https://github.com/wclaytor/bpc-rails-demo-playwright#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.31.1"
+  }
+}
